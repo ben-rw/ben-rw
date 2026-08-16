@@ -1,6 +1,11 @@
+### Check out [my full boot.dev profile](https://www.boot.dev/u/ben-rw")!
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/0a4db4dc-0b9e-4f25-9622-d7f9444dc419/thumbnail" >
+  <a href="https://www.boot.dev/u/ben-rw">
+    <img src="https://api.boot.dev/v1/users/public/0a4db4dc-0b9e-4f25-9622-d7f9444dc419/thumbnail">
+  </a>
 </p>
+
+
 <!--
 **benbunsford/benbunsford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
