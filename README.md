@@ -1,4 +1,4 @@
-### Check out [my full boot.dev profile](https://www.boot.dev/u/ben-rw")!
+### Check out [my full boot.dev profile](https://www.boot.dev/u/ben-rw)!
 <p align="left">
   <a href="https://www.boot.dev/u/ben-rw">
     <img src="https://api.boot.dev/v1/users/public/0a4db4dc-0b9e-4f25-9622-d7f9444dc419/thumbnail">
