@@ -3,7 +3,7 @@
 ### What I've been working on
 
 - [ragin-mages](https://github.com/ben-rw/ragin-mages) - a player-vs-player webgame built with [Go](https://go.dev/dl/), [websockets](https://github.com/coder/websocket), and [Ebitengine](https://github.com/hajimehoshi/ebiten)
-- Tinkering with (arch)[https://archlinux.org/] on an old MacBook Pro
+- Tinkering with [arch](https://archlinux.org/) on an old MacBook Pro
 
 ### Courses I'm taking
 
